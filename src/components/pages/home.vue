@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="content">网站建设中</div>
+    <div class="content">网站建设中...</div>
     <beiAn></beiAn>
   </div>
 </template>
